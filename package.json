@@ -1,0 +1,15 @@
+{
+  "name": "labtesttwo",
+  "version": "1.0.0",
+  "description": "labtestmad6135",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.4"
+  }
+}
